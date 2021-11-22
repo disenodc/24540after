@@ -7,6 +7,7 @@ package.json
 #Ignora carpetas
 
 node_modules
+nombrecarpeta
 
 #Ignorar subcarpetas
 
